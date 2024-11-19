@@ -1,0 +1,65 @@
+Self Driving Car Research Paper IoT Assignment
+Abstract:
+achieve low cost and low power
+user a calm and stress free driving
+h it will detect
+the obstacle, record the image for few seconds store it in cloud drop box for future use and also alert message is given to the user
+navigates itself on the track, control the movements and also check the surroundings with the help of Ultrasonic sensors
+input taken from sensors given to RPi
+RPi to motor commands
+1 Introduction:
+A robotic automotive is an automatic vehicle that's designed to travel between destinations with none human intervention.
+1.24 million individuals have been killed in roads 
+safety: cant get drunk/fuzzy
+congestion: frustration causes accidents and illogical actions
+value shopping: not understood
+parking: automatic parking
+2 Literature Survey
+Parth Verma-The google car-read map instructions-reduce human error+ accident
+shortcoming: speed unable to detect obstracles >100mph
+Michal Ruziicka and Peter Masek-Real Time Visual Maker Detector and huntsman
+supported pc Vision for Semi-autonomous Convoy
+Purpose - dominant the semiautonomous convoy by coming up with vision methodology -
+low power consumption and economical product value - 320x240 low resolution of captured frames
+which can cause the result inaccurate. Higher resolution
+cannot be used because of low value power device that
+doesn’t act in real time process thanks to low frame
+M. Naveen Kumar - “OpenCV for
+Computer Vision Applications-substance of an image- contains low
+level picture preparing capacities and elevated level
+calculations for tracking location, highlight coordinating and
+following-
+The principle utilization of IR sensors in mechanical
+autonomy- IR sensor is for obstruction evasion.- Measure separations with
+decreased reaction times merits examining. In this paper,
+another IR sensor dependent on the light power-
+Mirjana Maksimovic-"Raspberry Pi
+as Internet of Things equipment: Performances and
+Constraints".-customizable and programmable, compact
+“Autonomous machine robot with laptop vision system- s several options like GPS,
+measuring device and compass which may use for
+information collections purposes higher accuracy results
+achieved with higher resolution and frequency- robot cant operate in dark
+3 Problem Statement
+autonomous cars limited
+sensing technology
+intervention, accident liability authority, less security,
+Wireless range is too small, No video surveillance system
+doesn’t work safely in some weather condition and crowd
+navigation.
+4) Objectives
+To analyze and design an automated car model, which
+endured few of the above stated flaws by using a GUI based
+control for movement of the automated car model and video
+surveillance so that the user gets an idea of what is present in
+the way of travel of the automated car
+obstacle is detected in forward motion a
+video is recorded and stored in cloud drop box and if an
+obstacle in detected at backward then an alert message is
+sent to user. 
+It helps to reduce the memory load, Video surveillance is
+implemented, Wireless range is increased, it also produce
+low cost and low power consumption autonomous car. The
+main goal of self-driving automated car is to avoid
+accidents. 
+
